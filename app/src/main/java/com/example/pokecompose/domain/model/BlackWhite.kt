@@ -1,5 +1,6 @@
 package com.example.pokecompose.data.model
 
+import com.example.pokecompose.domain.model.Animated
 import com.google.gson.annotations.SerializedName
 
 data class BlackWhite(

@@ -1,8 +1,9 @@
-package com.example.pokecompose.data.model
+package com.example.pokecompose.domain.model
 
 import com.google.gson.annotations.SerializedName
 
-data class GenerationVi(
+data class
+GenerationVi(
     @SerializedName("omegaruby-alphasapphire")
     val omegarubyAlphasapphire: OmegarubyAlphasapphire,
     @SerializedName("x-y")

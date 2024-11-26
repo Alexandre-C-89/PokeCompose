@@ -1,5 +1,7 @@
 package com.example.pokecompose.data.model
 
+import com.example.pokecompose.domain.model.MoveLearnMethod
+import com.example.pokecompose.domain.model.VersionGroup
 import com.google.gson.annotations.SerializedName
 
 data class VersionGroupDetail(

@@ -1,6 +1,14 @@
 package com.example.pokecompose.data.model
 
 
+import com.example.pokecompose.domain.model.Ability
+import com.example.pokecompose.domain.model.Form
+import com.example.pokecompose.domain.model.GameIndice
+import com.example.pokecompose.domain.model.Move
+import com.example.pokecompose.domain.model.Species
+import com.example.pokecompose.domain.model.Sprites
+import com.example.pokecompose.domain.model.Stat
+import com.example.pokecompose.domain.model.Type
 import com.google.gson.annotations.SerializedName
 
 data class Pokemon(

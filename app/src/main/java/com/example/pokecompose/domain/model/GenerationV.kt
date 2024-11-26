@@ -1,5 +1,6 @@
-package com.example.pokecompose.data.model
+package com.example.pokecompose.domain.model
 
+import com.example.pokecompose.data.model.BlackWhite
 import com.google.gson.annotations.SerializedName
 
 data class GenerationV(
